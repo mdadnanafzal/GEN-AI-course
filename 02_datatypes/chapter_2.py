@@ -1,0 +1,6 @@
+spice_mix = set()
+print(f"inital spice mix id: {id(spice_mix)}")
+spice_mix.add("Ginger")
+spice_mix.add("Cardamom")
+print(f"inital spice mix id: {id(spice_mix)}")
+print(f"inital spice mix id: {(spice_mix)}")
